@@ -3,7 +3,6 @@
 namespace App\Http\Controllers;
 
 use App\Services\ParserService;
-use Illuminate\Http\Request;
 
 class ParserController extends Controller
 {
